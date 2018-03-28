@@ -1,0 +1,3 @@
+package com.indoorway.reduxandroidsampleapp.common
+
+interface AppEvent

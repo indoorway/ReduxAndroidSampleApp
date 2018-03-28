@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ReduxAndroidSampleApp</string>
+    <string name="network_error_dialog_title">Unexpected error occurred.</string>
+    <string name="network_error_dialog_message">Please restart the app to try again.</string>
+</resources>
